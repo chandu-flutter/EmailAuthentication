@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235687948971",
+    "project_id": "authemail-60124",
+    "storage_bucket": "authemail-60124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235687948971:android:7f6000d50865b7e43fbdee",
+        "android_client_info": {
+          "package_name": "com.email.emaillogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz-j9CVCJWuGUliCKF58rQVqdDSmxtGCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
